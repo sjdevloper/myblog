@@ -1,0 +1,4 @@
+[submodule "dev-tips/public"]
+	path = dev-tips/public
+	url = https://github.com/sjiang20/sjiang20.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'http://sjiang20.github.io/'
+languageCode = 'en-us'
+title = 'My Simple Dev Blog'
+theme = 'smol'
