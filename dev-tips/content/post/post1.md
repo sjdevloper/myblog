@@ -54,7 +54,7 @@ date: 2022-01-12T12:05:23-08:00
 ## Back to the github website
 - Go to setting
 - Scroll down to the GitHub Pages
-- Deploy the website https://sjiang20.github.io 
+- Deploy the website https://sjiang20.github.io
 
 
 
@@ -69,6 +69,4 @@ date: 2022-01-12T12:05:23-08:00
 
 >Finally, I got the issue fixed. The URL repository has to be named [yourgiithubusername].github.io. My Github username is sjiang20, so the repositories created as URL should be [sjiang20.github.io](https://sjiang20.github.io).
 
-Enjoy!
-=
-:hamster:
+# Enjoy!

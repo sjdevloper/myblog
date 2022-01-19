@@ -14,20 +14,8 @@ theme = 'smol'
   [[menu.main]]
         identifier = "posts"
         name = "Posts"
-        url = "/posts/"
+        url = "/post/"
         weight = 1
-
-  [[menu.main]]
-        identifier = "categories"
-        name = "Categories"
-        url = "/categories/"
-        weight = 2
-
-  [[menu.main]]
-        identifier = "tags"
-        name = "Tags"
-        url = "/tags/"
-        weight = 3
 
 # Footer
   [[menu.footer]]
@@ -40,7 +28,4 @@ theme = 'smol'
         url = "https://www.linkedin.com/in/jiang1028/"
         weight = 2
 
-    [[menu.footer]]
-        name = "Subcribe"
-        url = "/imprint"
-        weight = 3
+    
